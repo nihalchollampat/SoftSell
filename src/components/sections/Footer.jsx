@@ -56,8 +56,7 @@ export function Footer() {
         </div>
         <Separator className="bg-slate-700/50 my-8" />
         <div className="text-center text-sm text-slate-500">
-          <p>&copy; {currentYear} SoftSell Technologies. All rights reserved. (Fictional Company)</p>
-          <p className="mt-1">Web Application by Hostinger Horizons</p>
+        
         </div>
       </div>
     </footer>
